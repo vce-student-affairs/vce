@@ -49,7 +49,7 @@ header.masthead {
     width:20cm;
 }
 
-/*Landing page images */
+/*May be useful in future */
 
 .principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
 
@@ -61,15 +61,7 @@ header.masthead {
 
 .kulkarni-sir-img{ background-image: url('/public/assets/img/kulkarni-sir.jpg'); }
 
-/* CS chapter images */
-
-.pravan-img{ background-image: url('/public/assets/img/pravan.jpg'); }
-
-.niharika-img{ background-image: url('/public/assets/img/niharika.jpg'); }/*Common*/
-
-.burhan-img{ background-image: url('/public/assets/img/burhan.jpg'); }
-
-.sunayana-img{ background-image: url('/public/assets/img/sunayana.jpg'); }
+.asif_sir-img{ background-image: url('/public/assets/img/asif_sir.jpg'); }
 
 .prashanth-img{ background-image: url('/public/assets/img/prashanth.jpg'); }/*Common*/
 
@@ -77,35 +69,8 @@ header.masthead {
 
 .akash-img{ background-image: url('/public/assets/img/akash.jpg'); }
 
-.shashi-img{ background-image: url('/public/assets/img/shashi.jpg'); }
-
 .puneeth-img{ background-image: url('/public/assets/img/puneeth.jpeg'); }/*Common*/
 
-/* MTT chapter images */
-
-.sulakshana_madam-img{ background-image: url('/public/assets/img/sulakshana_madam.jpg'); }
-
-.manohar-img{ background-image: url('/public/assets/img/manohar.jpeg'); }
-
-.akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }/*Common*/
-
-.priyanka-img{ background-image: url('/public/assets/img/priyanka.jpg'); }/*Common*/
-
-.adhana-img{ background-image: url('/public/assets/img/adhana.jpg'); }
-
-.pooja-img{ background-image: url('/public/assets/img/pooja.jpg'); }
-
-.hemavardhan-img{ background-image: url('/public/assets/img/hemavardhan.jpg'); }
-
-.afsha-img{ background-image: url('/public/assets/img/afsha.jpg'); }/*Common*/
-
-.nagaraju-img{ background-image: url('/public/assets/img/nagaraju.jpg'); }
-
-/* WIE Chapter images */
-
-.sangeeta_madam-img{ background-image: url('/public/assets/img/sangeeta_madam.jpeg'); }
-
-.thanmai-img{ background-image: url('/public/assets/img/thanmai.jpeg'); }
 
 .newsletter-pdf{
     height: 800px;
