@@ -104,7 +104,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fff;
+  color: #00539CFF;
 }
 
 #mainNav .navbar-nav {
@@ -113,12 +113,12 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
-  color: #fff;
+  color: #EEA47FFF;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
   color: #18BC9C;
-}
+}/*#18BC9C*/
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
