@@ -1,5 +1,5 @@
 #mainNav{
-    background-color: #FFF;
+    background-color: #0C1C8C;
 }
 
 #mainNav .navbar-brand img{
@@ -7,7 +7,7 @@
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-    color: #0C1C8C !important;
+    color: #18BC9C !important;
 }
 
 header.masthead {
